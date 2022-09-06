@@ -1,7 +1,3 @@
-layout: page
-title: "Demo"
-permalink: /demo/
-
 <!DOCTYPE html>
 <html>
 <body>
